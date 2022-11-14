@@ -1,0 +1,15 @@
+D:\projects\netcore6\CompanyEmployees\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+D:\projects\netcore6\CompanyEmployees\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\netcore6\CompanyEmployees\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+D:\projects\netcore6\CompanyEmployees\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+D:\projects\netcore6\CompanyEmployees\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+D:\projects\netcore6\CompanyEmployees\Entities\bin\Debug\net6.0\Entities.deps.json
+D:\projects\netcore6\CompanyEmployees\Entities\bin\Debug\net6.0\Entities.dll
+D:\projects\netcore6\CompanyEmployees\Entities\bin\Debug\net6.0\Entities.pdb
+D:\projects\netcore6\CompanyEmployees\Entities\obj\Debug\net6.0\Entities.dll
+D:\projects\netcore6\CompanyEmployees\Entities\obj\Debug\net6.0\refint\Entities.dll
+D:\projects\netcore6\CompanyEmployees\Entities\obj\Debug\net6.0\Entities.pdb
+D:\projects\netcore6\CompanyEmployees\Entities\obj\Debug\net6.0\ref\Entities.dll
+D:\projects\netcore6\CompanyEmployees\entities\bin\Debug\net6.0\shared.dll
+D:\projects\netcore6\CompanyEmployees\entities\bin\Debug\net6.0\shared.pdb
+D:\projects\netcore6\CompanyEmployees\entities\obj\Debug\net6.0\entities.csproj.CopyComplete
